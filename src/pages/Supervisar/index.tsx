@@ -13,7 +13,7 @@ import {
 
 import Empty from "../../images/empty.svg";
 import "./Supervisar.css";
-import { Empresa } from "../../models/empresa";
+import { Empresa } from "../../models/Empresa";
 import { Empresas } from "../../data/Empresas";
 import { Product } from "../../models/Producto";
 import { Products } from "../../data/Productos";
