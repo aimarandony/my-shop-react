@@ -1,0 +1,27 @@
+.Nav {
+  width: 100%;
+  height: 80px;
+  background: #07080c;
+  display: flex;
+  align-items: center;
+}
+.Nav li {
+  width: 50%;
+  list-style: none;
+  text-align: center;
+}
+.Nav a {
+  display: block;
+  text-decoration: none;
+  color: rgba(181, 190, 219, 0.3);
+}
+.Nav a.active {
+  color: rgb(181, 190, 219);
+}
+.Nav a svg {
+  font-size: 24px;
+}
+.Nav a span {
+  display: block;
+  font-size: 12px;
+}
